@@ -1,0 +1,2 @@
+# Szachy
+Projekt na c++
